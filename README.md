@@ -1,2 +1,2 @@
-https://www.youtube.com/watch?v=UHQgiZMwj_g
-Darktide is a longterm project! This is used for a wiki and information about recent changes.
+# Darktide
+Darktide is a currently HEAVY work in progress. Hope for this to be full by the middle of this year :D
