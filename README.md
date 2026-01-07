@@ -1,4 +1,4 @@
 # Darktide
-Darktide is a currently HEAVY work in progress. Hope for this to be full by the middle of this year :D
+Darktide is a currently a HEAVY work in progress. This repository will be updated *hopefully* daily.
 
 > Current progress? Absolutely none :D
